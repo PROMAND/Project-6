@@ -4,4 +4,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="pl.byd.wsg.promand.project1.MainActivity"
-    tools:ignore="MergeRootFrame" />
+    tools:ignore="MergeRootFrame" >
+
+    <EditText
+        android:layout_width="152dp"
+        android:layout_height="170dp"
+        android:id="@+id/editText"
+        android:layout_gravity="left|top"
+        android:text="assdsopdssdop" />
+</FrameLayout>
